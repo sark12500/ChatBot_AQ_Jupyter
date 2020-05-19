@@ -1,0 +1,290 @@
+sentence,target
+打給XXX,phone
+撥打XXX,phone
+我要打電話給李振忠,phone
+幫我Call一下李振忠的桌機,phone
+打分機19910,phone
+請幫我聯絡一下某某人,phone
+幫我打給某某人一下,phone
+可以幫我打給某某人一下,phone
+Hi 助理 請幫我打點話給某同仁,phone
+Hi 助理 我要打電話給某同仁,phone
+Hi 助理 打電話給某同仁,phone
+Call XXX,phone
+撥打給XXX,phone
+phone XXX,phone
+呼叫某某某,phone
+幫我查一下HR的Nicole分機，然後打電話給他,phone
+幫我打電話給人資負責招募的窗口,phone
+call out 李某某,phone
+請幫忙撥電話給Milly Huang,phone
+請幫忙打給許秋燕,phone
+請找Milly Huang分機 打到桌機,phone
+幫我打電話到Milly Huang手機,phone
+請幫我接通分機19866,phone
+請幫我找Carol Chang，再轉給我,phone
+我要找Carol Chang，請先幫我打給她 ,phone
+請撥黃柏翰,phone
+幫我找Owen,phone
+call Donald,phone
+請撥給XXX,phone
+請撥打12345,phone
+有事找XXX,phone
+幫我找李孟宇,phone
+幫我聯絡李孟宇,phone
+幫我找陳俊宏,phone
+播個電話給陳俊宏,phone
+播一通電話給陳俊宏,phone
+幫我撥19910,phone
+我要找總務家珍,phone
+幫我撥電話,phone
+撥電話給HR Vicky,phone
+請幫我聯絡XXX,phone
+電話聯絡XXX,phone
+摳xxx,phone
+幫我找xxx,phone
+聯繫xxx,phone
+call to,phone
+幫我接通Celine,phone
+打電話到Celine的桌機,phone
+請幫我找阿信,phone
+可以請你幫我打電話給曾彥博嗎,phone
+請幫我聯絡XXX,phone
+請撥電話給XXX,phone
+打給江嘉振,phone
+聯絡陳振忠,phone
+Call 陳振忠,phone
+幫我打分機19xxx,phone
+幫我撥電話給Sam,phone
+幫我Call Sam,phone
+請轉接給宜芳,phone
+call 19999,phone
+請幫我聯絡同仁XXX,phone
+請幫我撥打分機xxxxx,phone
+幫我找陳俊宏,phone
+陳俊宏在嗎,phone
+幫我call xxx,phone
+可以幫我找xxx嗎,phone
+撥電話給XXX,phone
+請幫我用MVPN聯絡Hank,phone
+請幫我call Hank,phone
+請打Hank行動電話,phone
+請打Hank家裡電話,phone
+請幫我打電話給陳俊宏,phone
+幫我CALL一下李振忠,phone
+幫我找一下李振忠,phone
+撥個電話給李振忠,phone
+幫我撥李振忠手機,phone
+幫我打給MIS Gavin,phone
+幫我打Karen分機,phone
+撥出給XXX,phone
+撥號給XXX,phone
+撥給XXX,phone
+接通許宏誠,phone
+CALL陳俊宏,phone
+打陳俊宏的電話,phone
+請幫我請假,leave
+我要請假,leave
+可以幫我請假嗎,leave
+我明天早上有事，幫我請特休假,leave
+謝謝我昨天遲到十分鐘，幫我處理一下,leave
+我下週一要外出，麻煩幫我請一下公假,leave
+我要請假，請幫我填假單,leave
+請幫我填一下假單,leave
+Hi 助理 請幫我請假,leave
+Hi 助理 可以幫我請假嗎,leave
+Hi 助理 麻煩你幫我請假,leave
+幫我請假 ,leave
+身體不舒服 病假,leave
+我想請假,leave
+明天幫我請假,leave
+幫我請假,leave
+我明天沒有要進公司，你再幫我填一下單子,leave
+我明天不在，你上系統幫我請個假,leave
+我下星期一不進公司，請假的事情就麻煩你了,leave
+我7/16~7/23要請假,leave
+我要請特休假,leave
+跟主管通知我明天要請病假,leave
+幫我填個特休假單7/15~718,leave
+後天請事假一天,leave
+請幫我今天請假,leave
+下禮拜需要請假 請幫忙送出請假單,leave
+我明天休假 請幫忙請假,leave
+填假單,leave
+我要請假，請幫我開假單,leave
+我明天有事，請記得幫我請假,leave
+我臨時有事，今天請幫我開單,leave
+七月二十五號請特休假兩天,leave
+明天請假一天,leave
+明天要請假,leave
+幫我請明天的假,leave
+我要請明天下午的假,leave
+明天請幫我請一天特休假,leave
+明天請一天假,leave
+請一日特休,leave
+星期五早上請假半天,leave
+後天請下午,leave
+下個月8號要去看醫生,leave
+等下3點要先走接小孩,leave
+我明天起想請特休假3天,leave
+幫我請特休假，從明天起3天,leave
+明天起我要請3天特休，幫我填假單,leave
+我明天要請假,leave
+請假,leave
+我要請事假半天從12:00到17:00,leave
+幫我請事假一天,leave
+幫我請一天事假,leave
+請3天的長假,leave
+請幫我請明天一天特休,leave
+我生病了幫我請假,leave
+我要請假， 明天,leave
+我明天有事，想請事假,leave
+我身體不適，今天幫我請一天假,leave
+我想要去旅行，幫我請7/22到7/26的特休,leave
+今天我去外面上課，我想請公出假，代理人幫我填陳俊宏,leave
+我今天有事，無法去公司,leave
+我兒子生病，我帶他看醫生，不進公司了,leave
+下午要請假半天,leave
+下午4:00要請2小時特休,leave
+我下周一要請假,leave
+幫我請明天特休假1天,leave
+明天下午要公出，請幫我請假,leave
+今天遲到了，請幫我請假,leave
+請幫我請假，明天請幫我請假,leave
+我昨天沒上班，幫我請假,leave
+我出勤有問題，幫我請假,leave
+查一下我昨天出勤，需要的話就幫我請假,leave
+明天是我的休假日，幫我請特休,leave
+幫我請昨天的病假,leave
+我後天有事 幫我請個事假,leave
+我下個月要休長假，幫我請10天的特休,leave
+明天幫我請假,leave
+幫我處理出勤異常,leave
+我明天請假一天，請幫忙申請,leave
+我想要請特休假一週，麻煩幫忙處理,leave
+請幫我申請休假,leave
+請幫我寫假單,leave
+我星期五早上要請假半小時,leave
+我早上遲到要請假半小時,leave
+我想要請星期一到三的年假,leave
+明天請特休一天,leave
+幫我請 7/12 早上事假半天,leave
+7/22到7/25 請特休假,leave
+幫我請特休,leave
+明天家裡有事 麻煩幫我送假單,leave
+我明天不進公司 請幫我補假單,leave
+我星期五回診 請幫我送假單,leave
+明天幫我請特休假,leave
+下午幫我請事假,leave
+今天身體不舒服，幫我請病假,leave
+肚子痛幫我請假,leave
+明天請假,leave
+我7/25到7/31要出國，請幫我請特休假,leave
+我7/24要受訓，幫我請公假,leave
+我下星期四要受訓，幫我請假,leave
+我明天要請假，請幫我填假單,leave
+麻煩幫我填明天的假單,leave
+請幫我完成請假申請，謝謝,leave
+明天請幫我請假，整天,leave
+明天請幫我請假，早上半天,leave
+明天請幫我請假，8點到10點,leave
+明天有事,leave
+幫我跟老闆請個假,leave
+明天不進公司,leave
+今天不想上班,leave
+我突然有事情，可以幫我請假嗎,leave
+請假的事情可以問你嗎,leave
+請假你能幫忙嗎,leave
+我要請病假,leave
+我明天要請事假,leave
+請幫我請07/16,leave
+07/16早上要請假修車,leave
+明天要請假，我要看醫生,leave
+麻煩幫我請這周五跟下周一，要去旅遊,leave
+請幫我向老闆請假4小時，我車子拋錨了,leave
+幫我請出差假 7/14~7/25,leave
+明天不來公司,leave
+我要去上課，不能來公司,leave
+我生病了，不能去公司,leave
+請幫我請假7月13號下午特休假,leave
+請幫我查詢哪天還沒請假,leave
+我明天請假,leave
+我明天可能請個假,leave
+我明天想請假,leave
+我要請特休假,leave
+幫我送假單,leave
+7/12請特休8小時,leave
+請幫我請7/12特休8小時,leave
+7/12特休8小時,leave
+能否幫忙請個假,leave
+幫我上BPM開假單,leave
+休假,leave
+我禮拜一要請假,leave
+我十月十日要請假,leave
+我週三要請假,leave
+不想上班,leave
+明天不來,leave
+送假單,leave
+申請休假,leave
+今天天氣如何,weather
+現在天氣狀況如何,weather
+現在氣溫幾度,weather
+有沒有下雨,weather
+今天林口天氣,weather
+今天旁晚天氣如何,weather
+今天下午5:00會下雨嗎,weather
+今天外面天氣如何,weather
+今天天氣怎麼樣阿,weather
+今天天氣預報怎麼樣阿,weather
+今天幾度,weather
+今天冷嗎,weather
+要帶雨傘嗎,weather
+助理 報告氣象,weather
+外面天氣如何,weather
+今天適合出去玩嗎,weather
+今天很熱嗎,weather
+今天我需要帶傘嗎,weather
+今天會很熱嗎,weather
+今天我出門需要帶外套嗎,weather
+今天傍晚適合跑步嗎,weather
+明天會不會下雨,weather
+週末天氣如何,weather
+我想知道台北的天氣,weather
+今天出門會下雨嗎,weather
+外面太陽很大嗎,weather
+什麼時候放晴,weather
+今天下午會下雨嗎,weather
+天氣好嗎今天,weather
+明天台北降雨機率多少呢,weather
+今天下雨機率如何,weather
+今天需要擦防曬嗎,weather
+明天幾度,weather
+明天適合開車嗎,weather
+颱風什麼時候到,weather
+外面氣溫幾度,weather
+明天台北會不會下雨,weather
+最近是否有颱風豪大雨,weather
+台東今天風大不大,weather
+請問明天高雄會下雪嗎,weather
+給我這個星期的天氣預報,weather
+這個星期什麼時候會有颱風,weather
+明天氣溫如何,weather
+今天濕度呢,weather
+今天最高溫幾度,weather
+明天要帶雨衣嗎,weather
+明天大太陽嗎,weather
+墾丁週末旅遊天氣,weather
+台中明天最高溫跟最低溫,weather
+台北明天的降雨機率跟溼度,weather
+桃園下週的平均溫度,weather
+天氣幾度,weather
+幫忙看看天氣預報,weather
+要穿羽毛外套嗎,weather
+太陽大嗎,weather
+一週天氣預報,weather
+請給我現在天氣的資訊,weather
+今天空氣品質怎樣,weather
+現在室外幾度呢,weather
+今天幾度,weather
+明天穿甚麼,weather
+明天可以出去玩嗎,weather
